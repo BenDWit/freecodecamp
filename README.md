@@ -1,7 +1,7 @@
 # **FreeCodeCamp Progress**
 
 
-This repository contains my completed exercises and projects from (FreeCodeCamp)[https://www.freecodecamp.org].
+This repository contains my completed exercises and projects from [FreeCodeCamp](https://www.freecodecamp.org).
 Having already been familiar with HTML and CSS I was able to make fast progress through the early sections.
 
 ## 📘 **My FreeCodeCamp Profile**
