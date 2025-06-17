@@ -2,7 +2,7 @@
 
 ***
 
-My Exercises from Freecodecamp.
+My Lab's from Freecodecamp.
 
 ## My Freecodecamp account
 

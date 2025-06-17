@@ -1,3 +1,3 @@
 # Travel Agency
 
-This lesson i learned how to use figures.
+This Lab i learned how to use figures.

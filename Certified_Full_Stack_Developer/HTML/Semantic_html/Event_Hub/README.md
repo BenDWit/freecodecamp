@@ -1,3 +1,3 @@
 # Event hub
 
-This lesson i learned how to use semantic HTML elements
+This Lab i learned how to use semantic HTML elements
