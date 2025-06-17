@@ -1,5 +1,6 @@
-# freecodecamp
-My Exercises from freecodecamp
+# Freecodecamp
 
-## my freecodecamp account
+My Exercises from Freecodecamp.
+
+## my Freecodecamp account
 https://www.freecodecamp.org/bendwit

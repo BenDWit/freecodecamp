@@ -1,1 +1,1 @@
-# my answers for the Certified Full Stack Developer Curriculum
+# My answers for the Certified Full Stack Developer Curriculum.
