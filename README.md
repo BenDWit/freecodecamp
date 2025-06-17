@@ -4,10 +4,6 @@
 
 My Exercises from Freecodecamp.
 
-## my Freecodecamp account
-
------
-
-## my freecodecamp account
+## My Freecodecamp account
 
 [BenDWit](https://www.freecodecamp.org/bendwit)
