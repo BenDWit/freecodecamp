@@ -32,7 +32,7 @@ Having already been familiar with HTML and CSS I was able to make fast progress 
   - [ ] Accessibility
   - [ ] Positioning
   - [ ] Attribute Selectors
-  - [ ] Responisve Design
+  - [ ] Responsive Design
   - [ ] Variables
   - [ ] Grid
   - [ ] Animations
