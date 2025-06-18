@@ -16,7 +16,7 @@ Having already been familiar with HTML and CSS I was able to make fast progress 
 - [ ] **HTML**
   - [x] Basic HTML
   - [x] Semantic HTML
-  - [ ] Forms And Tables
+  - [x] Forms And Tables
   - [ ] Accessibility
 - [ ] **CSS**
   - [x] Computer Basics
