@@ -1,11 +1,9 @@
 # **FreeCodeCamp Progress**
 
-
 My Lab's from Freecodecamp.
 
 This repository contains my completed exercises and projects from [FreeCodeCamp](https://www.freecodecamp.org).
 Having already been familiar with HTML and CSS I was able to make fast progress through the early sections.
-
 
 ## 📘 **My FreeCodeCamp Profile**
 
@@ -14,6 +12,7 @@ Having already been familiar with HTML and CSS I was able to make fast progress 
 ## 🧭 **Progress Tracker**
 
 ### 📁 Certified Full Stack Developer Curriculum
+
 - [ ] **HTML**
   - [x] Basic HTML
   - [x] Semantic HTML
