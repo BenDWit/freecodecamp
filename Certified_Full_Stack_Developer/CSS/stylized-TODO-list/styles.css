@@ -1,0 +1,37 @@
+body {
+    background-color: gray;
+}
+
+.todo-list {
+    color: black;
+    background-color: rgba(0, 0, 0, 0.21) 
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    text-decoration: none;
+    color: red;
+}
+
+a:visited {
+    text-decoration: none;
+    color: green;
+}
+
+a:hover {
+    text-decoration: none;
+    color: hotpink;
+}
+
+a:active {
+    text-decoration: outline;
+    color: blue;
+} 
+
+a:focus {
+    outline: 2px solid orange; 
+    outline-offset: 2px;       
+}
