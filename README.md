@@ -1,4 +1,4 @@
-# **FreeCodeCamp Progress**
+# 🔥 **FreeCodeCamp Progress**
 
 My Lab's from Freecodecamp.
 
