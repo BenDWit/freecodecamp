@@ -36,3 +36,21 @@ Having already been familiar with HTML and CSS I was able to make fast progress 
   - [ ] Variables
   - [ ] Grid
   - [ ] Animations
+- [ ] JavaScript
+  - [x] Code Editors
+  - [ ] Variables and Strings
+  - [ ] Booleans and Numbers
+  - [ ] Functions
+  - [ ] Arrays
+  - [ ] Objects
+  - [ ] Loops
+  - [ ] JavaScript Fundamentals Review
+  - [ ] Higher Order Functions and Callbacks
+  - [ ] DOM Manipulating and Events
+  - [ ] JavaScript and Accessibility
+  - [ ] Debugging
+  - [ ] Basic Regex
+  - [ ] Form Validation
+  - [ ] Dates
+  - [ ] Audio and Video Events
+  - [ ] 
