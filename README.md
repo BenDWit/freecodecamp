@@ -21,7 +21,7 @@ Having already been familiar with HTML and CSS I was able to make fast progress 
 - [ ] **CSS**
   - [x] Computer Basics
   - [x] Basic CSS
-  - [ ] Design
+  - [x] Design
   - [ ] Absolute and Relative Units
   - [ ] Pseudo Classes and Elements
   - [ ] Colors
