@@ -53,4 +53,4 @@ Having already been familiar with HTML and CSS I was able to make fast progress 
   - [ ] Form Validation
   - [ ] Dates
   - [ ] Audio and Video Events
-  - [ ] 
+  - [ ]
