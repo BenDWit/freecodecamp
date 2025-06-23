@@ -20,7 +20,7 @@ Having already been familiar with HTML and CSS I was able to make fast progress 
   - [x] Accessibility
 - [ ] **CSS**
   - [x] Computer Basics
-  - [ ] Basic CSS
+  - [x] Basic CSS
   - [ ] Design
   - [ ] Absolute and Relative Units
   - [ ] Pseudo Classes and Elements
