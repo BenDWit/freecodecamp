@@ -13,11 +13,11 @@ Having already been familiar with HTML and CSS I was able to make fast progress 
 
 ### 📁 Certified Full Stack Developer Curriculum
 
-- [ ] **HTML**
+- [x] **HTML**
   - [x] Basic HTML
   - [x] Semantic HTML
   - [x] Forms And Tables
-  - [ ] Accessibility
+  - [x] Accessibility
 - [ ] **CSS**
   - [x] Computer Basics
   - [ ] Basic CSS
