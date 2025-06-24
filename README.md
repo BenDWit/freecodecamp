@@ -22,7 +22,7 @@ Having already been familiar with HTML and CSS I was able to make fast progress 
   - [x] Computer Basics
   - [x] Basic CSS
   - [x] Design
-  - [ ] Absolute and Relative Units
+  - [x] Absolute and Relative Units
   - [ ] Pseudo Classes and Elements
   - [ ] Colors
   - [ ] Styling Forms
