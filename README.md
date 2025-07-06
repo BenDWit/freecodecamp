@@ -23,7 +23,7 @@ Having already been familiar with HTML and CSS I was able to make fast progress 
   - [x] Basic CSS
   - [x] Design
   - [x] Absolute and Relative Units
-  - [ ] Pseudo Classes and Elements
+  - [x] Pseudo Classes and Elements
   - [ ] Colors
   - [ ] Styling Forms
   - [ ] The Box Model
