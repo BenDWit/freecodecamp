@@ -1,0 +1,25 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.color-box {
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+}
+
+.color1{
+    background-color: #323232;
+}
+.color2 {
+    background-color: rgb(10, 20, 255);
+}
+.color3 {
+    background-color: aqua;
+}
+.color4 {
+    background-color: hsl(10, 15%, 37%);
+}
+.color5 {
+    background-color: green;
+}
